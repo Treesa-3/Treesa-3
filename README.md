@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Treesa Renny 👋
 
-<!--
-**Treesa-3/Treesa-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring AI & Data professional, currently building hands-on projects in Machine Learning, NLP, and full-stack development.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- A series of self-built AI/Data projects — from ML-based apps to full-stack dashboards with real APIs and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python, FastAPI, scikit-learn, SQL/PostgreSQL, and applied NLP/LLM integration.
+
+💡 Interests: Machine Learning · Data Analysis · AI-powered applications · Backend Development
+
+📫 Reach me: [LinkedIn](www.linkedin.com/in/treesarenny) · [Email](treesarenny@gmail.com)
+
+⚡ Fun fact: This profile is a work in progress — new projects dropping soon!
